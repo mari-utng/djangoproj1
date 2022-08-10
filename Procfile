@@ -1,0 +1,1 @@
+web:gunicorn djangoproj1.wsgi
